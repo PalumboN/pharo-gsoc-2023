@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pharo-gsoc-2023/static/css/main.994b3f6e.chunk.css",
-    "main.js": "/pharo-gsoc-2023/static/js/main.ef5c098e.chunk.js",
-    "main.js.map": "/pharo-gsoc-2023/static/js/main.ef5c098e.chunk.js.map",
+    "main.js": "/pharo-gsoc-2023/static/js/main.24e4f463.chunk.js",
+    "main.js.map": "/pharo-gsoc-2023/static/js/main.24e4f463.chunk.js.map",
     "runtime-main.js": "/pharo-gsoc-2023/static/js/runtime-main.af876605.js",
     "runtime-main.js.map": "/pharo-gsoc-2023/static/js/runtime-main.af876605.js.map",
     "static/js/2.3004dca6.chunk.js": "/pharo-gsoc-2023/static/js/2.3004dca6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.af876605.js",
     "static/js/2.3004dca6.chunk.js",
     "static/css/main.994b3f6e.chunk.css",
-    "static/js/main.ef5c098e.chunk.js"
+    "static/js/main.24e4f463.chunk.js"
   ]
 }
